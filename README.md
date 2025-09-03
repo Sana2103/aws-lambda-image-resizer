@@ -23,10 +23,3 @@ Whenever you upload an image to a source bucket, this Lambda function **automati
 
 ✅ Fully serverless, no servers to manage!  
 
----
-
-## 🚀 How to Use
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/Sana2103/aws-lambda-image-resizer.git
-   cd aws-lambda-image-resizer
